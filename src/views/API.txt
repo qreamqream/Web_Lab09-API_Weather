@@ -1,0 +1,29 @@
+https://api.openweathermap.org/data/2.5/weather?
+lat={lat}&
+lon={lon}&
+appid={API key}
+
+https://api.openweathermap.org/data/2.5/weather?
+lat=18.894764041581798
+&
+lon=99.0107757651001
+&
+appid=e7264bbff89e1c275b88eb34c3ebcc94
+
+Lat Long. Maejo University
+18.894764041581798, 99.0107757651001
+
+4 Days
+https://pro.openweathermap.org/data/2.5/forecast/hourly?
+lat=18.894764041581798
+&
+lon=99.0107757651001
+&
+appid=e7264bbff89e1c275b88eb34c3ebcc94
+
+api.openweathermap.org/data/2.5/forecast?
+lat=18.894764041581798
+&
+lon=99.0107757651001
+&
+appid=e7264bbff89e1c275b88eb34c3ebcc94
